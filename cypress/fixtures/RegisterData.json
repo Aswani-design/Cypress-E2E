@@ -4,7 +4,10 @@
 "lastName": "As",
 "email": "test.qa@dispostable.com1",
 "telePhone":"1234567891",
-"password": "Cypress123"
+"password":"Cypress123",
+"username":"test.qa@dispostable.com1",
+"password1":"Cypress123",
+"product":"MacBook"
 
 
 }
