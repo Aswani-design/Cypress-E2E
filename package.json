@@ -4,6 +4,8 @@
   "description": "cypress",
   "main": "index.js",
   "scripts": {
+    "test:addressBook": "npx cypress run --spec cypress/e2e/addressBook.cy.js",
+    "test:homepage": "npx cypress run --spec cypress/e2e/homepage.cy.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
